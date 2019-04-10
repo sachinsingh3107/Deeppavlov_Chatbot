@@ -103,7 +103,7 @@
     ],
     "download": [
       {
-        "url": "http://files.deeppavlov.ai/faq/mipt/en_mipt_faq_v3.tar.gz",
+        "url": "https://drive.google.com/open?id=17G8ZLCDGngOpDjhKZ63yPrEDjza1waLx",
         "subdir": "{MODELS_PATH}/faq/mipt"
       }
     ]
